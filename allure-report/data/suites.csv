@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 27 22:39:27 EET 2024","Tue Feb 27 22:40:40 EET 2024","72648","Default Suite","InsiderCase","com.tests.TestInsider","com.tests.TestInsider","testInsiderTask","testInsiderTask",""
