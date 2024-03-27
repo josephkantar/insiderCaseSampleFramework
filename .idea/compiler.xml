@@ -9,5 +9,9 @@
         <module name="InsiderCase" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="InsiderCase" target="17" />
+      <module name="insiderCaseSampleFramework" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
